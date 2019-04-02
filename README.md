@@ -1,2 +1,2 @@
-# What-Makes-A-Great-Poet
-My WWDC19 Scholarship playground. Explores the nature of poetry with Mr. Whiskers and follows his attempts to imitate some great poets. 
+# What Makes a Great Poet?
+My WWDC19 Scholarship playground. Accompany Mr. Whiskers on his journey through poetry and watch his attempts to imitate some great poets! 
